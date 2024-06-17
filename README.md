@@ -20,18 +20,18 @@
 
 #### Dependencies
 - Python 3.x
-PyTorch
-NumPy
+- PyTorch
+- NumPy
 
 #### Future Work
-Geographic Diversity: Enhances dataset representativeness by including global HLA variations.
-Model Robustness: Incorporating diverse data improves the model's ability to generalize and adapt.
-Refinement Techniques: Hyperparameter tuning and custom architecture optimize predictive accuracy.
+- Geographic Diversity: Enhances dataset representativeness by including global HLA variations.
+- Model Robustness: Incorporating diverse data improves the model's ability to generalize and adapt.
+- Refinement Techniques: Hyperparameter tuning and custom architecture optimize predictive accuracy.
 
 
 #### Notes
-Ensure that the necessary data files are available in the specified directories.
-Training and evaluation parameters can be adjusted in the respective scripts.
-Also, part of the data is hidden for security purposes 
+- Ensure that the necessary data files are available in the specified directories.
+- Training and evaluation parameters can be adjusted in the respective scripts.
+- Also, part of the data is hidden for security purposes 
 
 
